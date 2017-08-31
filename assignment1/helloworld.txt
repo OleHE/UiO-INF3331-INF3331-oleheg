@@ -1,1 +1,1 @@
-Less friendly greeting
+Hello World
