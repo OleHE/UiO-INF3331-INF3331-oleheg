@@ -1,0 +1,6 @@
+Time = 0.00537584996326 -- N = 10000 Python
+Time = 0.000559372047726 -- N = 10000 Numpy
+Time = 0.234964718506 -- N = 10000 Numba
+
+We see, that numpy is a factor of 10E(-1) faster than python loops.
+Numba is slower.. hmm.. weird!

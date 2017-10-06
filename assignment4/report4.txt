@@ -1,0 +1,2 @@
+N = 128300 for the straight forward method
+N = 90700 for the midpoint method
